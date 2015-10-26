@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
 
   s.name        = 'junitdoc'
-  s.version     = '0.1.0'
+  s.version     = '0.1.1'
   s.summary     = "JUnit Doc"
   s.description = "Converts a pile of JUnit XML reports into readable documentation for your favorite product owner"
   s.license     = "MIT"

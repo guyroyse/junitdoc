@@ -72,7 +72,7 @@ def template
     %style ul { margin-top: 0px }
   %body
     %header
-      %h1 Onesite Server-Side Test Suite
+      %h1 JUnit Test Descriptions
     %section
       - data.each do |package_name, classes|
         - classes.each do |class_name, tests|
